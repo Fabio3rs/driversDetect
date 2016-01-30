@@ -1,0 +1,4105 @@
+{
+    "PC": [
+        {
+            "key": -1,
+            "value": [
+                {
+                    "key": "driverTestVersionString",
+                    "value": "0.1a"
+                }
+            ]
+        },
+        {
+            "key": 0,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Intel Raid 0 Volume"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Unidade de disco"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Intel Raid 0 Volume"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Bus Number 0, Target Id 1, LUN 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Unidades de disco padrão)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "SCSI\\DiskIntel______Raid_0_Volume1.0."
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "SCSI\\DiskIntel______Raid_0_Volume"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "SCSI\\DiskIntel___"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "SCSI\\Intel______Raid_0_Volume1"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "Intel______Raid_0_Volume1"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "GenDisk"
+                },
+                {
+                    "key": "SCSI\\DISK&VEN_INTEL&PROD_RAID_0_VOLUME\\4&1EB39C69&0&000100",
+                    "value": "SCSI\\DISK&VEN_INTEL&PROD_RAID_0_VOLUME\\4&1EB39C69&0&000100"
+                }
+            ]
+        },
+        {
+            "key": 1,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Dispositivo PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de High Definition Audio"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 1, dispositivo 0, função 1"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_10DE&DEV_0E0B&SUBSYS_26603842&REV_A1"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_10DE&DEV_0E0B&SUBSYS_26603842"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_10DE&DEV_0E0B&CC_040300"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_10DE&DEV_0E0B&CC_0403"
+                },
+                {
+                    "key": "PCI\\VEN_10DE&DEV_0E0B&SUBSYS_26603842&REV_A1\\4&1286464&0&0108",
+                    "value": "PCI\\VEN_10DE&DEV_0E0B&SUBSYS_26603842&REV_A1\\4&1286464&0&0108"
+                }
+            ]
+        },
+        {
+            "key": 2,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador de barramento SM"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Intel Device"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 31, função 3"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CA2&SUBSYS_50011458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CA2&SUBSYS_50011458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CA2&CC_0C0500"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CA2&CC_0C05"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CA2&SUBSYS_50011458&REV_00\\3&11583659&0&FB",
+                    "value": "PCI\\VEN_8086&DEV_8CA2&SUBSYS_50011458&REV_00\\3&11583659&0&FB"
+                }
+            ]
+        },
+        {
+            "key": 3,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C01\\1",
+                    "value": "ACPI\\PNP0C01\\1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Placa do sistema"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C01"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C01"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C01"
+                }
+            ]
+        },
+        {
+            "key": 4,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C02\\1",
+                    "value": "ACPI\\PNP0C02\\1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C02"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C02"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C02"
+                }
+            ]
+        },
+        {
+            "key": 5,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C02\\2",
+                    "value": "ACPI\\PNP0C02\\2"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C02"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C02"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C02"
+                }
+            ]
+        },
+        {
+            "key": 6,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C02\\5",
+                    "value": "ACPI\\PNP0C02\\5"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C02"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C02"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C02"
+                }
+            ]
+        },
+        {
+            "key": 7,
+            "value": [
+                {
+                    "key": "ACPI\\INT3394\\2&DABA3FF&1",
+                    "value": "ACPI\\INT3394\\2&DABA3FF&1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_INT&DEV_3394"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\INT3394"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*INT3394"
+                }
+            ]
+        },
+        {
+            "key": 8,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 28, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8C90&SUBSYS_50011458&REV_D0"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8C90&SUBSYS_50011458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8C90&CC_060400"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8C90&CC_0604"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8C90&SUBSYS_50011458&REV_D0\\3&11583659&0&E0",
+                    "value": "PCI\\VEN_8086&DEV_8C90&SUBSYS_50011458&REV_D0\\3&11583659&0&E0"
+                }
+            ]
+        },
+        {
+            "key": 9,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador USB (Universal Serial Bus)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Controlador Host Compatível com USB xHCI"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 20, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Controlador Host USB xHCI Genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CB1&SUBSYS_50071458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CB1&SUBSYS_50071458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CB1&CC_0C0330"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CB1&CC_0C03"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CB1&SUBSYS_50071458&REV_00\\3&11583659&0&A0",
+                    "value": "PCI\\VEN_8086&DEV_8CB1&SUBSYS_50071458&REV_00\\3&11583659&0&A0"
+                }
+            ]
+        },
+        {
+            "key": 10,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": " USB OPTICAL MOUSE"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{32F6E8C8-4A9A-11E5-9768-806E6F6E6963}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de Entrada USB"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Port_#0007.Hub_#0003"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_15D9&PID_0A4C&REV_0100"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_15D9&PID_0A4C"
+                },
+                {
+                    "key": "USB\\VID_15D9&PID_0A4C\\5&E658374&0&7",
+                    "value": "USB\\VID_15D9&PID_0A4C\\5&E658374&0&7"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0A4C"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_15D9"
+                }
+            ]
+        },
+        {
+            "key": 11,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0B\\0",
+                    "value": "ACPI\\PNP0C0B\\0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ventilador ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0B"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0B"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0B"
+                }
+            ]
+        },
+        {
+            "key": 12,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0B\\1",
+                    "value": "ACPI\\PNP0C0B\\1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ventilador ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0B"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0B"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0B"
+                }
+            ]
+        },
+        {
+            "key": 13,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0B\\2",
+                    "value": "ACPI\\PNP0C0B\\2"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ventilador ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0B"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0B"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0B"
+                }
+            ]
+        },
+        {
+            "key": 14,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0B\\3",
+                    "value": "ACPI\\PNP0C0B\\3"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ventilador ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0B"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0B"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0B"
+                }
+            ]
+        },
+        {
+            "key": 15,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0B\\4",
+                    "value": "ACPI\\PNP0C0B\\4"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ventilador ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0B"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0B"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0B"
+                }
+            ]
+        },
+        {
+            "key": 16,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI HOST"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "PCI standard host CPU bridge"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 0, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_0C00&SUBSYS_50001458&REV_06"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_0C00&SUBSYS_50001458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_0C00&CC_060000"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_0C00&CC_0600"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_0C00&SUBSYS_50001458&REV_06\\3&11583659&0&00",
+                    "value": "PCI\\VEN_8086&DEV_0C00&SUBSYS_50001458&REV_06\\3&11583659&0&00"
+                }
+            ]
+        },
+        {
+            "key": 17,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Filia de Impressão Local"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PRINTENUM\\{084f01fa-e634-4d77-83ee-074817c03581}"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PRINTENUM\\LocalPrintQueue"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "{084f01fa-e634-4d77-83ee-074817c03581}"
+                },
+                {
+                    "key": "SWD\\PRINTENUM\\{CBFFAF4C-E34D-407E-A3ED-DDFABE841F72}",
+                    "value": "SWD\\PRINTENUM\\{CBFFAF4C-E34D-407E-A3ED-DDFABE841F72}"
+                }
+            ]
+        },
+        {
+            "key": 18,
+            "value": [
+                {
+                    "key": "ACPI\\ACPI000C\\2&DABA3FF&1",
+                    "value": "ACPI\\ACPI000C\\2&DABA3FF&1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Agregador do Processador ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_ACPI&DEV_000C"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\ACPI000C"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*ACPI000C"
+                }
+            ]
+        },
+        {
+            "key": 19,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Fila de Impressão da Raiz"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Filia de Impressão Local"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Fila de Impressão da Raiz"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PRINTENUM\\LocalPrintQueue"
+                },
+                {
+                    "key": "SWD\\PRINTENUM\\PRINTQUEUES",
+                    "value": "SWD\\PRINTENUM\\PRINTQUEUES"
+                }
+            ]
+        },
+        {
+            "key": 20,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "USB Root Hub (xHCI)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\ROOT_HUB30&VID8086&PID8CB1&REV0000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\ROOT_HUB30&VID8086&PID8CB1"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "USB\\ROOT_HUB30"
+                },
+                {
+                    "key": "USB\\ROOT_HUB30\\4&1B824007&0&0",
+                    "value": "USB\\ROOT_HUB30\\4&1B824007&0&0"
+                }
+            ]
+        },
+        {
+            "key": 21,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Gerenciador de Volumes"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\VOLMGR"
+                },
+                {
+                    "key": "ROOT\\VOLMGR\\0000",
+                    "value": "ROOT\\VOLMGR\\0000"
+                }
+            ]
+        },
+        {
+            "key": 22,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 4, dispositivo 0, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_244E&SUBSYS_88921458&REV_41"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_244E&SUBSYS_88921458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_244E&CC_060401"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_244E&CC_0604"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_244E&SUBSYS_88921458&REV_41\\4&7A856A7&0&00E3",
+                    "value": "PCI\\VEN_8086&DEV_244E&SUBSYS_88921458&REV_41\\4&7A856A7&0&00E3"
+                }
+            ]
+        },
+        {
+            "key": 23,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador de comunicação PCI simples"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Intel(R) Management Engine Interface "
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 22, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Intel"
+                },
+                {
+                    "key": "Device Security Descriptor String",
+                    "value": "D:P(A;CI;GA;;;BA)(A;CI;GA;;;SY)(A;CI;GA;;;LS)(A;;GXGWGR;;;WD)(A;;GXGWGR;;;AC)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CBA&SUBSYS_1C3A1458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CBA&SUBSYS_1C3A1458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CBA&CC_078000"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CBA&CC_0780"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CBA&SUBSYS_1C3A1458&REV_00\\3&11583659&0&B0",
+                    "value": "PCI\\VEN_8086&DEV_8CBA&SUBSYS_1C3A1458&REV_00\\3&11583659&0&B0"
+                }
+            ]
+        },
+        {
+            "key": 24,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Mouse compatível com HID"
+                },
+                {
+                    "key": "HID\\VID_1A2C&PID_0B23&MI_01&COL01\\7&38D8601E&0&0000",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_01&COL01\\7&38D8601E&0&0000"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HID\\VID_1A2C&PID_0B23&REV_0110&MI_01&Col01"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_01&Col01"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "HID\\VID_1A2C&UP:0001_U:0002"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "HID_DEVICE_SYSTEM_MOUSE"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "HID_DEVICE_UP:0001_U:0002"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "HID_DEVICE"
+                },
+                {
+                    "key": "mi",
+                    "value": "MI_01"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 25,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Dispositivo PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de High Definition Audio"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 27, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CA0&SUBSYS_A1821458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CA0&SUBSYS_A1821458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CA0&CC_040300"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CA0&CC_0403"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CA0&SUBSYS_A1821458&REV_00\\3&11583659&0&D8",
+                    "value": "PCI\\VEN_8086&DEV_8CA0&SUBSYS_A1821458&REV_00\\3&11583659&0&D8"
+                }
+            ]
+        },
+        {
+            "key": 26,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Driver de Vídeo Básico da Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\BasicDisplay"
+                },
+                {
+                    "key": "ROOT\\BASICDISPLAY\\0000",
+                    "value": "ROOT\\BASICDISPLAY\\0000"
+                }
+            ]
+        },
+        {
+            "key": 27,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0E\\2&DABA3FF&1",
+                    "value": "ACPI\\PNP0C0E\\2&DABA3FF&1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Botão Suspensão ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0E"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0E"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0E"
+                }
+            ]
+        },
+        {
+            "key": 28,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_1",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 29,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_2",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_2"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 30,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_3",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_3"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 31,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_4",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_4"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 32,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_5",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_5"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 33,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_6",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_6"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 34,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_7",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_7"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 35,
+            "value": [
+                {
+                    "key": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_8",
+                    "value": "ACPI\\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60_-_INTEL(R)_CORE(TM)_I7-4790K_CPU_@_4.00GHZ\\_8"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador Intel"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*GenuineIntel_-_Intel64_Family_6_Model_60"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "ACPI\\GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "*GenuineIntel_-_Intel64_Family_6"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "ACPI\\GenuineIntel_-_Intel64"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "*GenuineIntel_-_Intel64"
+                }
+            ]
+        },
+        {
+            "key": 36,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de software genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "(null)"
+                },
+                {
+                    "key": "SWD\\IP_TUNNEL_VBUS\\IP_TUNNEL_DEVICE_ROOT",
+                    "value": "SWD\\IP_TUNNEL_VBUS\\IP_TUNNEL_DEVICE_ROOT"
+                }
+            ]
+        },
+        {
+            "key": 37,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Volume genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\Volume"
+                },
+                {
+                    "key": "STORAGE\\VOLUME\\{B24DAEAB-1E93-11E5-B68F-806E6F6E6963}#0000000000100000",
+                    "value": "STORAGE\\VOLUME\\{B24DAEAB-1E93-11E5-B68F-806E6F6E6963}#0000000000100000"
+                }
+            ]
+        },
+        {
+            "key": 38,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Volume genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\Volume"
+                },
+                {
+                    "key": "STORAGE\\VOLUME\\_??_USBSTOR#DISK&VEN_GENERIC-&PROD_SD#MMC#MS#MSPRO&REV_1.00#20021111153705700&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}",
+                    "value": "STORAGE\\VOLUME\\_??_USBSTOR#DISK&VEN_GENERIC-&PROD_SD#MMC#MS#MSPRO&REV_1.00#20021111153705700&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}"
+                }
+            ]
+        },
+        {
+            "key": 39,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Generic USB Hub"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_8087&PID_8001&REV_0000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_8087&PID_8001"
+                },
+                {
+                    "key": "USB\\VID_8087&PID_8001\\5&19AFFF1B&0&1",
+                    "value": "USB\\VID_8087&PID_8001\\5&19AFFF1B&0&1"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_8001"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_8087"
+                }
+            ]
+        },
+        {
+            "key": 40,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "LogMeIn Hamachi Virtual Ethernet Adapter"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "hamachi"
+                },
+                {
+                    "key": "ROOT\\NET\\0000",
+                    "value": "ROOT\\NET\\0000"
+                }
+            ]
+        },
+        {
+            "key": 41,
+            "value": [
+                {
+                    "key": "ACPI\\THERMALZONE\\TZ00",
+                    "value": "ACPI\\THERMALZONE\\TZ00"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Zona Térmica ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\ThermalZone"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*ThermalZone"
+                }
+            ]
+        },
+        {
+            "key": 42,
+            "value": [
+                {
+                    "key": "ACPI\\THERMALZONE\\TZ01",
+                    "value": "ACPI\\THERMALZONE\\TZ01"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Zona Térmica ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\ThermalZone"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*ThermalZone"
+                }
+            ]
+        },
+        {
+            "key": 43,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Enumerador UMBus"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "UMB\\UMBUS"
+                },
+                {
+                    "key": "UMB\\UMB\\1&841921D&0&TERMINPUT_BUS",
+                    "value": "UMB\\UMB\\1&841921D&0&TERMINPUT_BUS"
+                }
+            ]
+        },
+        {
+            "key": 44,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "SD/MMC/MS/MSPro "
+                },
+                {
+                    "key": "SWD\\WPDBUSENUM\\_??_USBSTOR#DISK&VEN_GENERIC-&PROD_SD#MMC#MS#MSPRO&REV_1.00#20021111153705700&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}",
+                    "value": "SWD\\WPDBUSENUM\\_??_USBSTOR#DISK&VEN_GENERIC-&PROD_SD#MMC#MS#MSPRO&REV_1.00#20021111153705700&0#{53F56307-B6BF-11D0-94F2-00A0C91EFB8B}"
+                }
+            ]
+        },
+        {
+            "key": 45,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "VMware Virtual Ethernet Adapter for VMnet1"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "*VMnetAdapter1"
+                },
+                {
+                    "key": "ROOT\\VMWARE\\0000",
+                    "value": "ROOT\\VMWARE\\0000"
+                }
+            ]
+        },
+        {
+            "key": 46,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "VMware Virtual Ethernet Adapter for VMnet8"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "*VMnetAdapter8"
+                },
+                {
+                    "key": "ROOT\\VMWARE\\0001",
+                    "value": "ROOT\\VMWARE\\0001"
+                }
+            ]
+        },
+        {
+            "key": 47,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de teclado HID"
+                },
+                {
+                    "key": "HID\\VID_1A2C&PID_0B23&MI_00\\7&2C1ACE12&0&0000",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_00\\7&2C1ACE12&0&0000"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HID\\VID_1A2C&PID_0B23&REV_0110&MI_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_00"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "HID\\VID_1A2C&UP:0001_U:0006"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "HID_DEVICE_SYSTEM_KEYBOARD"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "HID_DEVICE_UP:0001_U:0006"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "HID_DEVICE"
+                },
+                {
+                    "key": "mi",
+                    "value": "MI_00"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 48,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Volume genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\Volume"
+                },
+                {
+                    "key": "STORAGE\\VOLUME\\{B24DAE92-1E93-11E5-B68F-806E6F6E6963}#000001D1A5300000",
+                    "value": "STORAGE\\VOLUME\\{B24DAE92-1E93-11E5-B68F-806E6F6E6963}#000001D1A5300000"
+                }
+            ]
+        },
+        {
+            "key": 49,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Generic- SD/MMC/MS/MSPro USB Device"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{71165842-1D63-53CF-95CA-3482790C96BF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Unidade de disco"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Generic- SD/MMC/MS/MSPro USB Device"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Unidades de disco padrão)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USBSTOR\\DiskGeneric-SD/MMC/MS/MSPro_1.00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USBSTOR\\DiskGeneric-SD/MMC/MS/MSPro_"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "USBSTOR\\DiskGeneric-"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "USBSTOR\\Generic-SD/MMC/MS/MSPro_1"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "Generic-SD/MMC/MS/MSPro_1"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "USBSTOR\\GenDisk"
+                },
+                {
+                    "key": "Hardware IDs 6",
+                    "value": "GenDisk"
+                },
+                {
+                    "key": "USBSTOR\\DISK&VEN_GENERIC-&PROD_SD/MMC/MS/MSPRO&REV_1.00\\20021111153705700&0",
+                    "value": "USBSTOR\\DISK&VEN_GENERIC-&PROD_SD/MMC/MS/MSPRO&REV_1.00\\20021111153705700&0"
+                }
+            ]
+        },
+        {
+            "key": 50,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Dispositivo PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de High Definition Audio"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 3, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_0C0C&SUBSYS_20108086&REV_06"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_0C0C&SUBSYS_20108086"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_0C0C&CC_040300"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_0C0C&CC_0403"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_0C0C&SUBSYS_20108086&REV_06\\3&11583659&0&18",
+                    "value": "PCI\\VEN_8086&DEV_0C0C&SUBSYS_20108086&REV_06\\3&11583659&0&18"
+                }
+            ]
+        },
+        {
+            "key": 51,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0103\\0",
+                    "value": "ACPI\\PNP0103\\0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Timer de eventos de alta precisão"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0103"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0103"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0103"
+                }
+            ]
+        },
+        {
+            "key": 52,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Filia de Impressão Local"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PRINTENUM\\LocalPrintQueue"
+                },
+                {
+                    "key": "SWD\\PRINTENUM\\{741960BB-3D86-49DC-A802-36BA767F5AAE}",
+                    "value": "SWD\\PRINTENUM\\{741960BB-3D86-49DC-A802-36BA767F5AAE}"
+                }
+            ]
+        },
+        {
+            "key": 53,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Enumerador de Barramento de Composição"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\CompositeBus"
+                },
+                {
+                    "key": "ROOT\\COMPOSITEBUS\\0000",
+                    "value": "ROOT\\COMPOSITEBUS\\0000"
+                }
+            ]
+        },
+        {
+            "key": 54,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Enumerador de Unidade Virtual Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\vdrvroot"
+                },
+                {
+                    "key": "ROOT\\VDRVROOT\\0000",
+                    "value": "ROOT\\VDRVROOT\\0000"
+                }
+            ]
+        },
+        {
+            "key": 55,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Adaptador do Microsoft ISATAP"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "*ISATAP"
+                },
+                {
+                    "key": "SWD\\IP_TUNNEL_VBUS\\ISATAP_0",
+                    "value": "SWD\\IP_TUNNEL_VBUS\\ISATAP_0"
+                }
+            ]
+        },
+        {
+            "key": 56,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Adaptador do Microsoft ISATAP"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "*ISATAP"
+                },
+                {
+                    "key": "SWD\\IP_TUNNEL_VBUS\\ISATAP_1",
+                    "value": "SWD\\IP_TUNNEL_VBUS\\ISATAP_1"
+                }
+            ]
+        },
+        {
+            "key": 57,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Adaptador do Microsoft ISATAP"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "*ISATAP"
+                },
+                {
+                    "key": "SWD\\IP_TUNNEL_VBUS\\ISATAP_2",
+                    "value": "SWD\\IP_TUNNEL_VBUS\\ISATAP_2"
+                }
+            ]
+        },
+        {
+            "key": 58,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Adaptador do Microsoft ISATAP"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "*ISATAP"
+                },
+                {
+                    "key": "SWD\\IP_TUNNEL_VBUS\\ISATAP_3",
+                    "value": "SWD\\IP_TUNNEL_VBUS\\ISATAP_3"
+                }
+            ]
+        },
+        {
+            "key": 59,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de Espaços de Armazenamento da Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "Root\\Spaceport"
+                },
+                {
+                    "key": "ROOT\\SPACEPORT\\0000",
+                    "value": "ROOT\\SPACEPORT\\0000"
+                }
+            ]
+        },
+        {
+            "key": 60,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "SAMSUNG SP0411C"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Unidade de disco"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "SAMSUNG SP0411C"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Bus Number 4, Target Id 0, LUN 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Unidades de disco padrão)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "SCSI\\Disk_SAMSUN__________SP0411CUU10"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "SCSI\\Disk_SAMSUN__________SP0411C"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "SCSI\\Disk_SAMSUN_"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "SCSI\\_SAMSUN__________SP0411CU"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "_SAMSUN__________SP0411CU"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "GenDisk"
+                },
+                {
+                    "key": "SCSI\\DISK&VEN_SAMSUN_&PROD_SP0411C\\4&1EB39C69&0&040000",
+                    "value": "SCSI\\DISK&VEN_SAMSUN_&PROD_SP0411C\\4&1EB39C69&0&040000"
+                }
+            ]
+        },
+        {
+            "key": 61,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Alto-falantes (Realtek High Definition Audio)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{FA45C991-76E5-55BA-82A2-3FBD5D0E7984}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponto de Extremidade de Áudio"
+                },
+                {
+                    "key": "Device Display Category",
+                    "value": "Audio"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Alto-falantes (Realtek High Definition Audio)"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "MMDEVAPI\\AudioEndpoints"
+                },
+                {
+                    "key": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{10C73F8B-B753-40F5-A2FC-3BA3C385887E}",
+                    "value": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{10C73F8B-B753-40F5-A2FC-3BA3C385887E}"
+                }
+            ]
+        },
+        {
+            "key": 62,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0B00\\4&20111909&0",
+                    "value": "ACPI\\PNP0B00\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "CMOS do sistema/relógio em tempo real"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0B00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0B00"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0B00"
+                }
+            ]
+        },
+        {
+            "key": 63,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0501\\1",
+                    "value": "ACPI\\PNP0501\\1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Porta de comunicação"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0501"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0501"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0501"
+                }
+            ]
+        },
+        {
+            "key": 64,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Microsoft Kernel Debug Network Adapter"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "root\\kdnic"
+                },
+                {
+                    "key": "ROOT\\KDNIC\\0000",
+                    "value": "ROOT\\KDNIC\\0000"
+                }
+            ]
+        },
+        {
+            "key": 65,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Cópia de sombra de volume genérica"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\VolumeSnapshot"
+                },
+                {
+                    "key": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT1",
+                    "value": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT1"
+                }
+            ]
+        },
+        {
+            "key": 66,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Cópia de sombra de volume genérica"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\VolumeSnapshot"
+                },
+                {
+                    "key": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT2",
+                    "value": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT2"
+                }
+            ]
+        },
+        {
+            "key": 67,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Cópia de sombra de volume genérica"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\VolumeSnapshot"
+                },
+                {
+                    "key": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT3",
+                    "value": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT3"
+                }
+            ]
+        },
+        {
+            "key": 68,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Cópia de sombra de volume genérica"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\VolumeSnapshot"
+                },
+                {
+                    "key": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT4",
+                    "value": "STORAGE\\VOLUMESNAPSHOT\\HARDDISKVOLUMESNAPSHOT4"
+                }
+            ]
+        },
+        {
+            "key": 69,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador de vídeo (Compatível com VGA)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "NVIDIA GeForce GTX 660  "
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 1, dispositivo 0, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "NVIDIA"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_10DE&DEV_11C0&SUBSYS_26603842&REV_A1"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_10DE&DEV_11C0&SUBSYS_26603842"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_10DE&DEV_11C0&CC_030000"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_10DE&DEV_11C0&CC_0300"
+                },
+                {
+                    "key": "PCI\\VEN_10DE&DEV_11C0&SUBSYS_26603842&REV_A1\\4&1286464&0&0008",
+                    "value": "PCI\\VEN_10DE&DEV_11C0&SUBSYS_26603842&REV_A1\\4&1286464&0&0008"
+                }
+            ]
+        },
+        {
+            "key": 70,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0000\\4&20111909&0",
+                    "value": "ACPI\\PNP0000\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de interrupção programável"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0000"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0000"
+                }
+            ]
+        },
+        {
+            "key": 71,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de sistema compatível com HID"
+                },
+                {
+                    "key": "HID\\VID_1A2C&PID_0B23&MI_01&COL02\\7&38D8601E&0&0001",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_01&COL02\\7&38D8601E&0&0001"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HID\\VID_1A2C&PID_0B23&REV_0110&MI_01&Col02"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_01&Col02"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "HID\\VID_1A2C&UP:0001_U:0080"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "HID_DEVICE_SYSTEM_CONTROL"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "HID_DEVICE_UP:0001_U:0080"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "HID_DEVICE"
+                },
+                {
+                    "key": "mi",
+                    "value": "MI_01"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 72,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Audio Device on High Definition Audio Bus"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "NVIDIA High Definition Audio"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Internal High Definition Audio Bus"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "NVIDIA"
+                },
+                {
+                    "key": "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_38422660&REV_1001\\5&1BD32AE1&0&0001",
+                    "value": "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_38422660&REV_1001\\5&1BD32AE1&0&0001"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_38422660&REV_1001"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HDAUDIO\\FUNC_01&VEN_10DE&DEV_0041&SUBSYS_38422660"
+                }
+            ]
+        },
+        {
+            "key": 73,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI para ISA"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "PCI standard ISA bridge"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 31, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CC6&SUBSYS_50011458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CC6&SUBSYS_50011458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CC6&CC_060100"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CC6&CC_0601"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CC6&SUBSYS_50011458&REV_00\\3&11583659&0&F8",
+                    "value": "PCI\\VEN_8086&DEV_8CC6&SUBSYS_50011458&REV_00\\3&11583659&0&F8"
+                }
+            ]
+        },
+        {
+            "key": 74,
+            "value": [
+                {
+                    "key": "ACPI\\INT3F0D\\4&20111909&0",
+                    "value": "ACPI\\INT3F0D\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_INT&DEV_3F0D"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\INT3F0D"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*INT3F0D"
+                }
+            ]
+        },
+        {
+            "key": 75,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador Ethernet"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Realtek PCIe GBE Family Controller"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 3, dispositivo 0, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Realtek"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_06"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_10EC&DEV_8168&SUBSYS_E0001458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_10EC&DEV_8168&CC_020000"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_10EC&DEV_8168&CC_0200"
+                },
+                {
+                    "key": "PCI\\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_06\\4&7EF09B9&0&00E2",
+                    "value": "PCI\\VEN_10EC&DEV_8168&SUBSYS_E0001458&REV_06\\4&7EF09B9&0&00E2"
+                }
+            ]
+        },
+        {
+            "key": 76,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Enumerador de Barramento de Raiz UMBus"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "root\\umbus"
+                },
+                {
+                    "key": "ROOT\\UMBUS\\0000",
+                    "value": "ROOT\\UMBUS\\0000"
+                }
+            ]
+        },
+        {
+            "key": 77,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0200\\4&20111909&0",
+                    "value": "ACPI\\PNP0200\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Controlador de acesso direto à memória"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0200"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0200"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0200"
+                }
+            ]
+        },
+        {
+            "key": 78,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Microsoft Virtual WiFi Miniport Adapter_01"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Adaptador Virtual de Rede Hospedada da Microsoft"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "VWiFi Bus 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\\vwifimp_sap"
+                },
+                {
+                    "key": "{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\\VWIFIMP_SAP\\6&30A8241C&0&01",
+                    "value": "{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\\VWIFIMP_SAP\\6&30A8241C&0&01"
+                }
+            ]
+        },
+        {
+            "key": 79,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Microsoft Radio Device Enumeration Bus"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de software genérico"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Microsoft Radio Device Enumeration Bus"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "SWD\\RADIO\\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}",
+                    "value": "SWD\\RADIO\\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}"
+                }
+            ]
+        },
+        {
+            "key": 80,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Microsoft RawPort"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Interface Lógica da Porta de Impressão"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "LPT1"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "LPTENUM\\MicrosoftRawPort958A"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "MicrosoftRawPort958A"
+                },
+                {
+                    "key": "LPTENUM\\MICROSOFTRAWPORT\\5&2417227&0&LPT1",
+                    "value": "LPTENUM\\MICROSOFTRAWPORT\\5&2417227&0&LPT1"
+                }
+            ]
+        },
+        {
+            "key": 81,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "USB2.0-CRW"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{71165842-1D63-53CF-95CA-3482790C96BF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "USB Mass Storage Device"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Port_#0005.Hub_#0003"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Compatible USB storage device"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_0BDA&PID_0116&REV_1610"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_0BDA&PID_0116"
+                },
+                {
+                    "key": "USB\\VID_0BDA&PID_0116\\20021111153705700",
+                    "value": "USB\\VID_0BDA&PID_0116\\20021111153705700"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0116"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_0BDA"
+                }
+            ]
+        },
+        {
+            "key": 82,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Microsoft Device Association Root Enumerator"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de software genérico"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Microsoft Device Association Root Enumerator"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "SWD\\MSDAS\\{CE958E9A-424F-4C88-86F4-11314821E75A}",
+                    "value": "SWD\\MSDAS\\{CE958E9A-424F-4C88-86F4-11314821E75A}"
+                }
+            ]
+        },
+        {
+            "key": 83,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "ACPI x64-based PC"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "acpiapic"
+                },
+                {
+                    "key": "ROOT\\ACPI_HAL\\0000",
+                    "value": "ROOT\\ACPI_HAL\\0000"
+                }
+            ]
+        },
+        {
+            "key": 84,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Volume genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\Volume"
+                },
+                {
+                    "key": "STORAGE\\VOLUME\\{8A8EB1C1-4362-11E5-B6C6-806E6F6E6963}#0000000000100000",
+                    "value": "STORAGE\\VOLUME\\{8A8EB1C1-4362-11E5-B6C6-806E6F6E6963}#0000000000100000"
+                }
+            ]
+        },
+        {
+            "key": 85,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0A08\\0",
+                    "value": "ACPI\\PNP0A08\\0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Complexo da Raiz de PCI Express"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0A08"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0A08"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0A08"
+                }
+            ]
+        },
+        {
+            "key": 86,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "HID-compliant consumer control device"
+                },
+                {
+                    "key": "HID\\VID_1A2C&PID_0B23&MI_01&COL03\\7&38D8601E&0&0002",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_01&COL03\\7&38D8601E&0&0002"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HID\\VID_1A2C&PID_0B23&REV_0110&MI_01&Col03"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HID\\VID_1A2C&PID_0B23&MI_01&Col03"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "HID\\VID_1A2C&UP:000C_U:0001"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "HID_DEVICE_SYSTEM_CONSUMER"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "HID_DEVICE_UP:000C_U:0001"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "HID_DEVICE"
+                },
+                {
+                    "key": "mi",
+                    "value": "MI_01"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 87,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0400\\4&20111909&0",
+                    "value": "ACPI\\PNP0400\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Porta de Impressora"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0400"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0400"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0400"
+                }
+            ]
+        },
+        {
+            "key": 88,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 28, função 2"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8C94&SUBSYS_50011458&REV_D0"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8C94&SUBSYS_50011458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8C94&CC_060400"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8C94&CC_0604"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8C94&SUBSYS_50011458&REV_D0\\3&11583659&0&E2",
+                    "value": "PCI\\VEN_8086&DEV_8C94&SUBSYS_50011458&REV_D0\\3&11583659&0&E2"
+                }
+            ]
+        },
+        {
+            "key": 89,
+            "value": [
+                {
+                    "key": "ACPI_HAL\\PNP0C08\\0",
+                    "value": "ACPI_HAL\\PNP0C08\\0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Microsoft ACPI-Compliant System"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI_HAL\\PNP0C08"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*PNP0C08"
+                }
+            ]
+        },
+        {
+            "key": 90,
+            "value": [
+                {
+                    "key": "HTREE\\ROOT\\0",
+                    "value": "HTREE\\ROOT\\0"
+                }
+            ]
+        },
+        {
+            "key": 91,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Driver de Renderização Básico da Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\BasicRender"
+                },
+                {
+                    "key": "ROOT\\BASICRENDER\\0000",
+                    "value": "ROOT\\BASICRENDER\\0000"
+                }
+            ]
+        },
+        {
+            "key": 92,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador de vídeo (Compatível com VGA)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Intel(R) HD Graphics 4600"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 2, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Intel Corporation"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_0412&SUBSYS_D0001458&REV_06"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_0412&SUBSYS_D0001458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_0412&CC_030000"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_0412&CC_0300"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_0412&SUBSYS_D0001458&REV_06\\3&11583659&0&10",
+                    "value": "PCI\\VEN_8086&DEV_0412&SUBSYS_D0001458&REV_06\\3&11583659&0&10"
+                }
+            ]
+        },
+        {
+            "key": 93,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "USB Root Hub"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\ROOT_HUB20&VID8086&PID8CA6&REV0000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\ROOT_HUB20&VID8086&PID8CA6"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "USB\\ROOT_HUB20"
+                },
+                {
+                    "key": "USB\\ROOT_HUB20\\4&25C54F97&0",
+                    "value": "USB\\ROOT_HUB20\\4&25C54F97&0"
+                }
+            ]
+        },
+        {
+            "key": 94,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Volume genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\Volume"
+                },
+                {
+                    "key": "STORAGE\\VOLUME\\{B24DAE92-1E93-11E5-B68F-806E6F6E6963}#0000000015F00000",
+                    "value": "STORAGE\\VOLUME\\{B24DAE92-1E93-11E5-B68F-806E6F6E6963}#0000000015F00000"
+                }
+            ]
+        },
+        {
+            "key": 95,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "USB Keyboard"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{32F6E8C9-4A9A-11E5-9768-806E6F6E6963}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de Entrada USB"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "0000.0014.0000.008.000.000.000.000.000"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_1A2C&PID_0B23&REV_0110&MI_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_1A2C&PID_0B23&MI_00"
+                },
+                {
+                    "key": "USB\\VID_1A2C&PID_0B23&MI_00\\6&3115547D&0&0000",
+                    "value": "USB\\VID_1A2C&PID_0B23&MI_00\\6&3115547D&0&0000"
+                },
+                {
+                    "key": "mi",
+                    "value": "MI_00"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 96,
+            "value": [
+                {
+                    "key": "ACPI\\FIXEDBUTTON\\2&DABA3FF&1",
+                    "value": "ACPI\\FIXEDBUTTON\\2&DABA3FF&1"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Botão de Recurso fixo ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\FixedButton"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "*FixedButton"
+                }
+            ]
+        },
+        {
+            "key": 97,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C04\\4&20111909&0",
+                    "value": "ACPI\\PNP0C04\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Processador de dados numéricos"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C04"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C04"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C04"
+                }
+            ]
+        },
+        {
+            "key": 98,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "USB Keyboard"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{32F6E8C9-4A9A-11E5-9768-806E6F6E6963}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "USB Composite Device"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Port_#0008.Hub_#0003"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Standard USB Host Controller)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_1A2C&PID_0B23&REV_0110"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_1A2C&PID_0B23"
+                },
+                {
+                    "key": "USB\\VID_1A2C&PID_0B23\\5&E658374&0&8",
+                    "value": "USB\\VID_1A2C&PID_0B23\\5&E658374&0&8"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 99,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C02\\10",
+                    "value": "ACPI\\PNP0C02\\10"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C02"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C02"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C02"
+                }
+            ]
+        },
+        {
+            "key": 100,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Optiarc DVD RW AD-7260S"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{32F6E8AE-4A9A-11E5-9768-806E6F6E6963}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "CD-ROM Drive"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Optiarc DVD RW AD-7260S"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Bus Number 3, Target Id 0, LUN 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Unidades de CD-ROM padrão)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "SCSI\\CdRomOptiarc_DVD_RW_AD-7260S_1.03"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "SCSI\\CdRomOptiarc_DVD_RW_AD-7260S_"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "SCSI\\CdRomOptiarc_"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "SCSI\\Optiarc_DVD_RW_AD-7260S_1"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "Optiarc_DVD_RW_AD-7260S_1"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "GenCdRom"
+                },
+                {
+                    "key": "SCSI\\CDROM&VEN_OPTIARC&PROD_DVD_RW_AD-7260S\\4&1EB39C69&0&030000",
+                    "value": "SCSI\\CDROM&VEN_OPTIARC&PROD_DVD_RW_AD-7260S\\4&1EB39C69&0&030000"
+                }
+            ]
+        },
+        {
+            "key": 101,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 1, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_0C01&SUBSYS_50001458&REV_06"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_0C01&SUBSYS_50001458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_0C01&CC_060400"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_0C01&CC_0604"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_0C01&SUBSYS_50001458&REV_06\\3&11583659&0&08",
+                    "value": "PCI\\VEN_8086&DEV_0C01&SUBSYS_50001458&REV_06\\3&11583659&0&08"
+                }
+            ]
+        },
+        {
+            "key": 102,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "23MP55-4 (NVIDIA High Definition Audio)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{803B6E4C-4BF4-5712-A77F-E381B15315E7}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponto de Extremidade de Áudio"
+                },
+                {
+                    "key": "Device Display Category",
+                    "value": "Audio"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "23MP55-4 (NVIDIA High Definition Audio)"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "MMDEVAPI\\AudioEndpoints"
+                },
+                {
+                    "key": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{CCFF91C0-8217-44AE-8449-E48315090A54}",
+                    "value": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{CCFF91C0-8217-44AE-8449-E48315090A54}"
+                }
+            ]
+        },
+        {
+            "key": 103,
+            "value": [
+                {
+                    "key": "ACPI\\INT33A0\\0",
+                    "value": "ACPI\\INT33A0\\0"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_INT&DEV_33A0"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\INT33A0"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*INT33A0"
+                }
+            ]
+        },
+        {
+            "key": 104,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "VMware VMCI Host Device"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\VMWVMCIHOSTDEV"
+                },
+                {
+                    "key": "ROOT\\VMWVMCIHOSTDEV\\0000",
+                    "value": "ROOT\\VMWVMCIHOSTDEV\\0000"
+                }
+            ]
+        },
+        {
+            "key": 105,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador USB (Universal Serial Bus)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Standard Enhanced PCI to USB Host Controller"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 26, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Standard USB Host Controller)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CAD&SUBSYS_50061458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CAD&SUBSYS_50061458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CAD&CC_0C0320"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CAD&CC_0C03"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CAD&SUBSYS_50061458&REV_00\\3&11583659&0&D0",
+                    "value": "PCI\\VEN_8086&DEV_8CAD&SUBSYS_50061458&REV_00\\3&11583659&0&D0"
+                }
+            ]
+        },
+        {
+            "key": 106,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "NVIDIA Virtual Audio Device (Wave Extensible) (WDM)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_0955&PID_9000"
+                },
+                {
+                    "key": "ROOT\\UNNAMED_DEVICE\\0000",
+                    "value": "ROOT\\UNNAMED_DEVICE\\0000"
+                }
+            ]
+        },
+        {
+            "key": 107,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Samsung M3 Portable USB Device"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{03020100-0504-0706-0800-000000000000}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Unidade de disco"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Samsung M3 Portable USB Device"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Unidades de disco padrão)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USBSTOR\\DiskSamsung_M3_Portable_____3___"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USBSTOR\\DiskSamsung_M3_Portable_____"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "USBSTOR\\DiskSamsung_"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "USBSTOR\\Samsung_M3_Portable_____3"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "Samsung_M3_Portable_____3"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "USBSTOR\\GenDisk"
+                },
+                {
+                    "key": "Hardware IDs 6",
+                    "value": "GenDisk"
+                },
+                {
+                    "key": "USBSTOR\\DISK&VEN_SAMSUNG&PROD_M3_PORTABLE&REV_3_\\00000000011E4554&0",
+                    "value": "USBSTOR\\DISK&VEN_SAMSUNG&PROD_M3_PORTABLE&REV_3_\\00000000011E4554&0"
+                }
+            ]
+        },
+        {
+            "key": 108,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Audio Device on High Definition Audio Bus"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Áudio Intel(R) para telas"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Internal High Definition Audio Bus"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Intel(R) Corporation"
+                },
+                {
+                    "key": "Device Security Descriptor String",
+                    "value": "D:P(A;;GA;;;SY)(A;;GXGWGR;;;BA)(A;;GXGWGR;;;WD)(A;;GXGWGR;;;RC)"
+                },
+                {
+                    "key": "HDAUDIO\\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101&REV_1000\\4&1793E418&0&0001",
+                    "value": "HDAUDIO\\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101&REV_1000\\4&1793E418&0&0001"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HDAUDIO\\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101&REV_1000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HDAUDIO\\FUNC_01&VEN_8086&DEV_2807&SUBSYS_80860101"
+                }
+            ]
+        },
+        {
+            "key": 109,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Microsoft Visual Studio Location Simulator Sensor"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "Sensors\\SensorsSimulatorDriver"
+                },
+                {
+                    "key": "ROOT\\WPD\\0000",
+                    "value": "ROOT\\WPD\\0000"
+                }
+            ]
+        },
+        {
+            "key": 110,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Microsoft GS Wavetable Synth"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de software genérico"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Microsoft GS Wavetable Synth"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "SWD\\MMDEVAPI\\MICROSOFTGSWAVETABLESYNTH",
+                    "value": "SWD\\MMDEVAPI\\MICROSOFTGSWAVETABLESYNTH"
+                }
+            ]
+        },
+        {
+            "key": 111,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C0C\\AA",
+                    "value": "ACPI\\PNP0C0C\\AA"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Botão ligar/desligar ACPI"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C0C"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C0C"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C0C"
+                }
+            ]
+        },
+        {
+            "key": 112,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Generic USB Hub"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_8087&PID_8009&REV_0000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_8087&PID_8009"
+                },
+                {
+                    "key": "USB\\VID_8087&PID_8009\\5&392BCE11&0&1",
+                    "value": "USB\\VID_8087&PID_8009\\5&392BCE11&0&1"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_8009"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_8087"
+                }
+            ]
+        },
+        {
+            "key": 113,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Filia de Impressão Local"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PRINTENUM\\{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PRINTENUM\\LocalPrintQueue"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}"
+                },
+                {
+                    "key": "SWD\\PRINTENUM\\{A8BDFCC7-294B-4C00-953B-A4DCC2724240}",
+                    "value": "SWD\\PRINTENUM\\{A8BDFCC7-294B-4C00-953B-A4DCC2724240}"
+                }
+            ]
+        },
+        {
+            "key": 114,
+            "value": [
+                {
+                    "key": "ACPI\\INT0800\\4&20111909&0",
+                    "value": "ACPI\\INT0800\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo herdado"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_INT&DEV_0800"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\INT0800"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*INT0800"
+                }
+            ]
+        },
+        {
+            "key": 115,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Filia de Impressão Local"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PRINTENUM\\microsoftmicrosoft_s7d14"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PRINTENUM\\LocalPrintQueue"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "microsoftmicrosoft_s7d14"
+                },
+                {
+                    "key": "SWD\\PRINTENUM\\{A49C6D55-DB77-4A56-B785-B4BCB75ACEB8}",
+                    "value": "SWD\\PRINTENUM\\{A49C6D55-DB77-4A56-B785-B4BCB75ACEB8}"
+                }
+            ]
+        },
+        {
+            "key": 116,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Enumerador de Adaptador de Rede Virtual NDIS"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\NdisVirtualBus"
+                },
+                {
+                    "key": "ROOT\\NDISVIRTUALBUS\\0000",
+                    "value": "ROOT\\NDISVIRTUALBUS\\0000"
+                }
+            ]
+        },
+        {
+            "key": 117,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador de rede"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "802.11g PCI Wireless Adapter"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 5, dispositivo 1, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Ralink Technology Corp."
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_1814&DEV_0302&SUBSYS_B8341462&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_1814&DEV_0302&SUBSYS_B8341462"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_1814&DEV_0302&CC_028000"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_1814&DEV_0302&CC_0280"
+                },
+                {
+                    "key": "PCI\\VEN_1814&DEV_0302&SUBSYS_B8341462&REV_00\\5&274A348D&0&0800E3",
+                    "value": "PCI\\VEN_1814&DEV_0302&SUBSYS_B8341462&REV_00\\5&274A348D&0&0800E3"
+                }
+            ]
+        },
+        {
+            "key": 118,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponte PCI para PCI"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 28, função 3"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8C96&SUBSYS_50011458&REV_D0"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8C96&SUBSYS_50011458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8C96&CC_060400"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8C96&CC_0604"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8C96&SUBSYS_50011458&REV_D0\\3&11583659&0&E3",
+                    "value": "PCI\\VEN_8086&DEV_8C96&SUBSYS_50011458&REV_D0\\3&11583659&0&E3"
+                }
+            ]
+        },
+        {
+            "key": 119,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "USB Keyboard"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{32F6E8C9-4A9A-11E5-9768-806E6F6E6963}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de Entrada USB"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "0000.0014.0000.008.000.000.000.000.000"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Dispositivos padrão do sistema)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_1A2C&PID_0B23&REV_0110&MI_01"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_1A2C&PID_0B23&MI_01"
+                },
+                {
+                    "key": "USB\\VID_1A2C&PID_0B23&MI_01\\6&3115547D&0&0001",
+                    "value": "USB\\VID_1A2C&PID_0B23&MI_01\\6&3115547D&0&0001"
+                },
+                {
+                    "key": "mi",
+                    "value": "MI_01"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0B23"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_1A2C"
+                }
+            ]
+        },
+        {
+            "key": 120,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Generic Monitor"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{803B6E4C-4BF4-5712-A77F-E381B15315E7}"
+                },
+                {
+                    "key": "DISPLAY\\GSM5A23\\5&4A87979&0&UID4353",
+                    "value": "DISPLAY\\GSM5A23\\5&4A87979&0&UID4353"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Monitor Genérico PnP"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Tipos de monitor padrão)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "MONITOR\\GSM5A23"
+                }
+            ]
+        },
+        {
+            "key": 121,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Dispositivo de software genérico"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Wi-Fi"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "SWD\\RADIO\\{2CC8C40C-1167-45AD-98E6-F0AC8733DD92}",
+                    "value": "SWD\\RADIO\\{2CC8C40C-1167-45AD-98E6-F0AC8733DD92}"
+                }
+            ]
+        },
+        {
+            "key": 122,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0C02\\111",
+                    "value": "ACPI\\PNP0C02\\111"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Recursos da placa-mãe"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0C02"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0C02"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0C02"
+                }
+            ]
+        },
+        {
+            "key": 123,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Realtek Digital Output (Realtek High Definition Audio)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Ponto de Extremidade de Áudio"
+                },
+                {
+                    "key": "Device Display Category",
+                    "value": "Audio"
+                },
+                {
+                    "key": "Device Friendly Name",
+                    "value": "Realtek Digital Output (Realtek High Definition Audio)"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Microsoft"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "MMDEVAPI\\AudioEndpoints"
+                },
+                {
+                    "key": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{196C0B93-426E-4EFC-BD4C-51FA36D67CB8}",
+                    "value": "SWD\\MMDEVAPI\\{0.0.0.00000000}.{196C0B93-426E-4EFC-BD4C-51FA36D67CB8}"
+                }
+            ]
+        },
+        {
+            "key": 124,
+            "value": [
+                {
+                    "key": "ACPI\\PNP0100\\4&20111909&0",
+                    "value": "ACPI\\PNP0100\\4&20111909&0"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Timer do sistema"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ACPI\\VEN_PNP&DEV_0100"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "ACPI\\PNP0100"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "*PNP0100"
+                }
+            ]
+        },
+        {
+            "key": 125,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Microsoft System Management BIOS Driver"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\mssmbios"
+                },
+                {
+                    "key": "ROOT\\MSSMBIOS\\0000",
+                    "value": "ROOT\\MSSMBIOS\\0000"
+                }
+            ]
+        },
+        {
+            "key": 126,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador USB (Universal Serial Bus)"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Standard Enhanced PCI to USB Host Controller"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 29, função 0"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "(Standard USB Host Controller)"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_8CA6&SUBSYS_50061458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_8CA6&SUBSYS_50061458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_8CA6&CC_0C0320"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_8CA6&CC_0C03"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_8CA6&SUBSYS_50061458&REV_00\\3&11583659&0&E8",
+                    "value": "PCI\\VEN_8086&DEV_8CA6&SUBSYS_50061458&REV_00\\3&11583659&0&E8"
+                }
+            ]
+        },
+        {
+            "key": 127,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Samsung M3 Portable"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{03020100-0504-0706-0800-000000000000}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "USB Mass Storage Device"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Port_#0018.Hub_#0003"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Compatible USB storage device"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\VID_04E8&PID_61B6&REV_0E00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\VID_04E8&PID_61B6"
+                },
+                {
+                    "key": "USB\\VID_04E8&PID_61B6\\00000000011E4554",
+                    "value": "USB\\VID_04E8&PID_61B6\\00000000011E4554"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_61B6"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_04E8"
+                }
+            ]
+        },
+        {
+            "key": 128,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "USB Root Hub"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "USB\\ROOT_HUB20&VID8086&PID8CAD&REV0000"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "USB\\ROOT_HUB20&VID8086&PID8CAD"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "USB\\ROOT_HUB20"
+                },
+                {
+                    "key": "USB\\ROOT_HUB20\\4&1AE1F7B6&0",
+                    "value": "USB\\ROOT_HUB20\\4&1AE1F7B6&0"
+                }
+            ]
+        },
+        {
+            "key": 129,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Mouse compatível com HID"
+                },
+                {
+                    "key": "HID\\VID_15D9&PID_0A4C\\6&2DDE0B57&0&0000",
+                    "value": "HID\\VID_15D9&PID_0A4C\\6&2DDE0B57&0&0000"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HID\\VID_15D9&PID_0A4C&REV_0100"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HID\\VID_15D9&PID_0A4C"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "HID\\VID_15D9&UP:0001_U:0002"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "HID_DEVICE_SYSTEM_MOUSE"
+                },
+                {
+                    "key": "Hardware IDs 4",
+                    "value": "HID_DEVICE_UP:0001_U:0002"
+                },
+                {
+                    "key": "Hardware IDs 5",
+                    "value": "HID_DEVICE"
+                },
+                {
+                    "key": "pid",
+                    "value": "PID_0A4C"
+                },
+                {
+                    "key": "vid",
+                    "value": "VID_15D9"
+                }
+            ]
+        },
+        {
+            "key": 130,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Audio Device on High Definition Audio Bus"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Realtek High Definition Audio"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Internal High Definition Audio Bus"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Realtek"
+                },
+                {
+                    "key": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_1458A182&REV_1003\\4&42F4E46&0&0201",
+                    "value": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_1458A182&REV_1003\\4&42F4E46&0&0201"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_1458A182&REV_1003"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_0892&SUBSYS_1458A182"
+                }
+            ]
+        },
+        {
+            "key": 131,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Enumerador de Dispositivos de Software Plug and Play"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\SWENUM"
+                },
+                {
+                    "key": "ROOT\\SYSTEM\\0000",
+                    "value": "ROOT\\SYSTEM\\0000"
+                }
+            ]
+        },
+        {
+            "key": 132,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Remote Desktop Device Redirector Bus"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "ROOT\\RDPBUS"
+                },
+                {
+                    "key": "ROOT\\RDPBUS\\0000",
+                    "value": "ROOT\\RDPBUS\\0000"
+                }
+            ]
+        },
+        {
+            "key": 133,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "Volume genérico"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "STORAGE\\Volume"
+                },
+                {
+                    "key": "STORAGE\\VOLUME\\{B24DAE92-1E93-11E5-B68F-806E6F6E6963}#0000000000100000",
+                    "value": "STORAGE\\VOLUME\\{B24DAE92-1E93-11E5-B68F-806E6F6E6963}#0000000000100000"
+                }
+            ]
+        },
+        {
+            "key": 134,
+            "value": [
+                {
+                    "key": "Bus Reported Device Description",
+                    "value": "Controlador RAID"
+                },
+                {
+                    "key": "ContainerId",
+                    "value": "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}"
+                },
+                {
+                    "key": "Device Description",
+                    "value": "Intel Chipset SATA RAID Controller"
+                },
+                {
+                    "key": "Device Location Info",
+                    "value": "Barramento PCI 0, dispositivo 31, função 2"
+                },
+                {
+                    "key": "Device Manufacturer",
+                    "value": "Intel Corporation"
+                },
+                {
+                    "key": "Hardware IDs 0",
+                    "value": "PCI\\VEN_8086&DEV_2822&SUBSYS_B0051458&REV_00"
+                },
+                {
+                    "key": "Hardware IDs 1",
+                    "value": "PCI\\VEN_8086&DEV_2822&SUBSYS_B0051458"
+                },
+                {
+                    "key": "Hardware IDs 2",
+                    "value": "PCI\\VEN_8086&DEV_2822&CC_010400"
+                },
+                {
+                    "key": "Hardware IDs 3",
+                    "value": "PCI\\VEN_8086&DEV_2822&CC_0104"
+                },
+                {
+                    "key": "PCI\\VEN_8086&DEV_2822&SUBSYS_B0051458&REV_00\\3&11583659&0&FA",
+                    "value": "PCI\\VEN_8086&DEV_2822&SUBSYS_B0051458&REV_00\\3&11583659&0&FA"
+                }
+            ]
+        },
+        {
+            "key": 135,
+            "value": [
+                {
+                    "key": "Device Description",
+                    "value": "M3 Portable"
+                },
+                {
+                    "key": "SWD\\WPDBUSENUM\\{B24DAEAB-1E93-11E5-B68F-806E6F6E6963}#0000000000100000",
+                    "value": "SWD\\WPDBUSENUM\\{B24DAEAB-1E93-11E5-B68F-806E6F6E6963}#0000000000100000"
+                }
+            ]
+        }
+    ]
+}
